@@ -3,3 +3,5 @@
 Учебный проект по вёрстке.  
 HTML + CSS.  
 Макет предоставлен Яндекс Практикумом.
+
+https://github.com/Myaksih/ono-tebe-nado-1
